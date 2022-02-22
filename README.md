@@ -4,4 +4,4 @@ Simple JS script which goes through your recent trades and grabs the relevant da
 
 Which builds a array of the row data and creates a CSV file with the current date and time
 
-To run: Simply F12 and paste the script and run
+To run: Simply F12 and paste the script and run in the browser
